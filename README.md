@@ -3,4 +3,4 @@
 # DEMO :
 # https://meme-generator-git-main.mk-knight23.vercel.app
 
-![Screenshot](meme1.png)
+![Screenshot](meme1-ss.png)
