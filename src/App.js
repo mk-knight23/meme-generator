@@ -7,7 +7,7 @@ function App() {
   return (
     <div className='app-container'>
       <Header />
-      <MemeGenerator />
+      <MemeGenerator  />
       <Footer/>
     </div>
   );
