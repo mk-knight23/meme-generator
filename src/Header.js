@@ -7,6 +7,9 @@ function Header() {
       <h1>
         Hello Users 
       </h1>
+      <h2>
+        This Is A New Change in website
+      </h2>
     </header>
   );
 }
